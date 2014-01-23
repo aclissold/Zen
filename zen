@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+
+try:
+    while True: input()
+except:
+    pass
